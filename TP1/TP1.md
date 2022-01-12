@@ -73,4 +73,4 @@ Donc on a bien le choix "n'était" dans l'automate mais aussi "n'être" car c'es
 
 ### 3.2 - Utilisez la Concordance obtenue pour construire un graphe hiraure.grf
 
-    TODO
+    Voir image exercice_3-2.png
