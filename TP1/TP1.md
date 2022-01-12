@@ -46,19 +46,19 @@ Donc on a bien le choix "n'était" dans l'automate mais aussi "n'être" car c'es
 ### 2.2 - Propre expressions régulières
 
 #### A - Rêquete pour "Tous les adjectifs"
-    On fait la Rêquete <A>.
+    On fait la Rêquete <A>
     On obtient 10 232 résultats.
 
 #### B - Rêquete pour "Tous les occurences de la forme pouvoir"
-    On fait la Rêquete pouvoir.
+    On fait la Rêquete pouvoir
     On obtient 8 résultats.
 
 #### C - Rêquete pour "Tous les occurences de la forme savons"
-    On fait la Rêquete savons.
+    On fait la Rêquete savons
     On obtient qu'un seul résultat.
 
 #### D - Rêquete pour "Tous les formes fléchies dont la forme canonique est le verbe pouvoir"
-    On fait la Rêquete <pouvoir.>.
+    On fait la Rêquete <pouvoir.>
     On obtient 362 résultats.
     On peut obtenir des "Puis" qui ne sont pas en lien avec pouvoir.
     Exemple : "Puis il sortie ..."
