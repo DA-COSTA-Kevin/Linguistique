@@ -1,0 +1,26 @@
+#Unigraph
+SIZE 1188 840
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+6
+"<E>" 70 200 4 2 3 4 5 
+"" 300 200 0 
+"<E>/:ms" 196 142 1 1 
+"le/:fs" 209 200 1 1 
+"s/:mp" 210 256 1 1 
+"les/:fp" 216 326 1 1 

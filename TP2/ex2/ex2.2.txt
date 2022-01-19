@@ -1,0 +1,25 @@
+jeux            1.N:mp
+jeu             .N:ms
+genoux          1.N:mp
+genou           .N:ms
+moteur          .A:ms, .N:ms
+moteurs         1.A:mp, 1.N:mp
+motrice         4eur.A:fs
+motrices        5eur.N:fp 
+pareil          .ADV:ms, .ADV:fs, .A:ms 
+pareille        2.A:fs
+pareils         1.A:mp
+pareilles       3.A:fp
+as              .N:ms, .N:mp  
+abri            .N:ms
+abris           1.N:mp
+aère            3érer.V:P1s, 3érer.V:P3s
+aères           4érer.V:P2s
+aérons          3er.V:P1p
+aérez           2er.V:P2p
+aèrent          5érer.V:P3p
+obsède          3éder.V:P1s, 3éder.V:P3s
+obsèdes         4éder.V:P2s  
+obsédons        3er.V:P1p
+obsédez         2er.V:P2p
+obsèdent        5éder.V:P3p
