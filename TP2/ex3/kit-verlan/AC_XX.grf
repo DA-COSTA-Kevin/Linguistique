@@ -1,0 +1,26 @@
+#Unigraph
+SIZE 1188 840
+FONT Times New Roman:  10
+OFONT Times New Roman:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+6
+"<E>" 70 189 1 2 
+"" 758 189 0 
+"<$1>/<Gen=$g;Nb=$n>" 311 189 1 4 
+"ex: à poil" 497 82 0 
+"<$2>" 464 189 1 5 
+"<$3>" 585 189 1 1 

@@ -18,8 +18,10 @@ aères           4érer.V:P2s
 aérons          3er.V:P1p
 aérez           2er.V:P2p
 aèrent          5érer.V:P3p
+aérer           .V:W
 obsède          3éder.V:P1s, 3éder.V:P3s
 obsèdes         4éder.V:P2s  
 obsédons        3er.V:P1p
 obsédez         2er.V:P2p
 obsèdent        5éder.V:P3p
+obséder         .V:W
